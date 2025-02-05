@@ -1,18 +1,18 @@
 <script setup lang="ts">
 useHead({
-  title: 'sample',
+  title: 'seo-check',
   meta: [
     {
       name: 'description',
-      content: 'sample'
+      content: 'seo-check'
     },
     {
         property: 'og:title',
-        content: 'ogp sample',
+        content: 'ogp seo-check',
     },
     {
         property: 'og:description',
-        content: 'ogp sample',
+        content: 'ogp seo-check',
     },
     {
         property: 'og:image',
@@ -24,7 +24,7 @@ useHead({
     },
     {
         property: 'og:site_name',
-        content: 'ogp sample',
+        content: 'ogp seo-check',
     },
     {
         property: 'og:image:width',
@@ -36,7 +36,7 @@ useHead({
     },
     {
         property: 'twitter:title',
-        content: 'ogp sample'
+        content: 'ogp seo-check'
     },
     {
         name: 'twitter:card',
