@@ -48,7 +48,7 @@ useHead({
 
 <template>
   <div>
-    <NuxtRouteAnnouncer />
-    <NuxtWelcome />
+    <h1>sample</h1>
+    <p>sample</p>
   </div>
 </template>
